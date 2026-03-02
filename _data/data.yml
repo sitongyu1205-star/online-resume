@@ -12,7 +12,7 @@ basic:
 contact:
   location: Beijing, China  # location, text or markdown link syntax
   email: me@example.com     # email address
-  phone: +86-111-2222-3333  # phone number, the format is "+[Country Code] [Area Code (if applicable)] [Local Phone Number]"
+  phone: +86-173-8621-4365  # phone number, the format is "+[Country Code] [Area Code (if applicable)] [Local Phone Number]"
   website: example.com      # site link without schema, like example.com, will automatically prepend "https://"
 
   gender:                   # gender or pronoun
