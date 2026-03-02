@@ -3,7 +3,7 @@ meta:
   language: en              # text language, the value is HTML lang attribute value, default is "en"
 
 basic:
-  name: Foo Bar                      # name
+  name: 余思彤                     # name
   title: Backend Developer           # job title
   avatar:
     show: true                       # show or hide avatar
